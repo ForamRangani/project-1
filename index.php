@@ -1,4 +1,4 @@
-  <?php include('header.php') ?>
+  <?php include('layouts/header.php') ?>
 
     <section class="slider_section">
       <div class="slider_container">
@@ -783,8 +783,4 @@
   <!-- end client section -->
 
   <!-- info section -->
-<?php include('footer.php') ?>
-
-</body>
-
-</html>
+<?php include('layouts/footer.php') ?>

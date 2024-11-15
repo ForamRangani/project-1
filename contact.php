@@ -1,4 +1,4 @@
-<?php include('header.php')?>
+<?php include('layouts/header.php')?>
   <section class="contact_section layout_padding">
     <div class="container px-0">
       <div class="heading_container ">
@@ -45,8 +45,4 @@
 
   <!-- info section -->
 
- <?php include('footer.php') ?>
-
-</body>
-
-</html>
+ <?php include('layouts/footer.php') ?>

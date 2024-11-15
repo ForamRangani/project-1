@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+<?php include('layouts/header.php') ?>
 
   <section class="shop_section layout_padding">
     <div class="container">
@@ -221,7 +221,4 @@
 
   <!-- info section -->
 
- <?php include('footer.php') ?>
-</body>
-
-</html>
+ <?php include('layouts/footer.php') ?>

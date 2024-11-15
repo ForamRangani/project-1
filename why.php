@@ -1,4 +1,4 @@
-<?php include('header.php') ?>
+<?php include('layouts/header.php') ?>
 <!-- why section -->
 
   <section class="why_section layout_padding">
@@ -251,9 +251,5 @@
   <!-- end why section -->
 
   <!-- info section -->
-<?php include('footer.php') ?>
+<?php include('layouts/footer.php') ?>
  
-
-</body>
-
-</html>
